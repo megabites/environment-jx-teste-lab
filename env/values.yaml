@@ -14,7 +14,7 @@ expose:
   - 4
   config:
     domain: 192.168.42.89.nip.io
-    exposer: Ingress
+    exposer: Route
     http: "true"
 jenkins:
   Servers:
